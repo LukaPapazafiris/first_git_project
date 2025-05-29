@@ -1,0 +1,22 @@
+# Windows-Spezifisch
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node / Python / andere Umgebungen (nur bei Bedarf)
+node_modules/
+dist/
+.env
+__pycache__/
+
+# Logs & temporäre Dateien
+*.log
+*.tmp
+
+# System
+.DS_Store
+*.swp
